@@ -1,7 +1,20 @@
-# Inteligência Artificial em Ciência Animal  
-### Aplicações em Pesquisa e na Indústria
+✅ index.md — Página pronta para o site
+---
+layout: page
+title: "Inteligência Artificial em Ciência Animal"
+permalink: /iaemcienciaanimal/
+---
 
-Bem-vindo(a) ao site oficial do livro **"Inteligência Artificial em Ciência Animal: Aplicações em Pesquisa e na Indústria"**, de **Ana Paula Ayub da Costa Barbon** e **Sylvio Barbon Junior**.
+# Inteligência Artificial em Ciência Animal: Aplicações em Pesquisa e na Indústria
+
+<p align="center">
+  <img src="/iaemcienciaanimal/IAemCienciaAnimal.png" width="380" alt="Capa do Livro Inteligência Artificial em Ciência Animal">
+</p>
+
+---
+
+Bem-vindo(a) à página oficial do livro **"Inteligência Artificial em Ciência Animal: Aplicações em Pesquisa e na Indústria"**, de  
+**Ana Paula Ayub da Costa Barbon** e **Sylvio Barbon Junior**.
 
 Este espaço reúne informações essenciais sobre a obra, sua motivação, seu conteúdo e seus autores, servindo como uma referência para pesquisadores, estudantes e profissionais interessados na integração entre Inteligência Artificial e Ciência Animal.
 
