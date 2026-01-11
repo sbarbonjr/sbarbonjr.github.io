@@ -1,10 +1,3 @@
-✅ index.md — Página pronta para o site
----
-layout: page
-title: "Inteligência Artificial em Ciência Animal"
-permalink: /iaemcienciaanimal/
----
-
 # Inteligência Artificial em Ciência Animal: Aplicações em Pesquisa e na Indústria
 
 <p align="center">
