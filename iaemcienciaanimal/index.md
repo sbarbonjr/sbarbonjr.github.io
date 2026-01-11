@@ -108,7 +108,7 @@ ISBN: **978-65-5790-123-6**
 
 <div style="display: flex; gap: 12px; flex-wrap: wrap; margin-top: 10px;">
 
-  <a href="https://www.amazon.com.br/dp/B0GFYH5Q7Q" target="_blank" 
+  <a href="https://a.co/d/8v8ShjS" target="_blank" 
      style="background-color:#FF9900; padding:10px 18px; border-radius:8px; 
      color:white; text-decoration:none; font-weight:600;">
      Comprar na Amazon
