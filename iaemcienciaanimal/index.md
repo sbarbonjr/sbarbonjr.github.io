@@ -1,7 +1,6 @@
 # Inteligência Artificial em Ciência Animal: Aplicações em Pesquisa e na Indústria
-
 <p align="center">
-  <img src="/iaemcienciaanimal/IAemCienciaAnimal.png" width="380" alt="Capa do Livro Inteligência Artificial em Ciência Animal">
+  <img src="/iaemcienciaanimal/IAemCienciaAnimal.png" width="240" alt="Capa do Livro Inteligência Artificial em Ciência Animal">
 </p>
 
 ---
@@ -73,16 +72,6 @@ Professor e pesquisador em Ciência da Computação, com foco em Inteligência A
 
 ---
 
-## Contato
-
-- **Ana Paula Ayub da Costa Barbon**  
-  [apbarbon@gmail.com]
-
-- **Sylvio Barbon Junior**  
-  [sylvio.barbonjunior@units.it] 
-
----
-
 ## 📗 Disponibilidade do Livro
 
 ISBN: **978-65-5790-123-6**
@@ -92,14 +81,14 @@ ISBN: **978-65-5790-123-6**
   <a href="https://www.amazon.com.br/dp/B0GFYH5Q7Q" target="_blank" 
      style="background-color:#FF9900; padding:10px 18px; border-radius:8px; 
      color:white; text-decoration:none; font-weight:bold;">
-     📘 Comprar na Amazon
+     Comprar na Amazon
   </a>
 
   <a href="https://www.esserenelmondo.com.br/pt/medicina-veterinaria-inteligEncia-artificial-em-ciEncia-animal-ebook269.php" 
      target="_blank"
      style="background-color:#1E88E5; padding:10px 18px; border-radius:8px; 
      color:white; text-decoration:none; font-weight:bold;">
-     🛒 Comprar na Essere nel Mondo
+     Comprar na Essere nel Mondo
   </a>
 
 </div>
