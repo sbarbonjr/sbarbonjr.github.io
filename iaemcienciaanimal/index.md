@@ -1,3 +1,8 @@
+---
+layout: page
+title: "Inteligência Artificial em Ciência Animal"
+permalink: /iaemcienciaanimal/
+---
 <style>
   .markdown-body > h1:first-of-type{
     font-size: 16px !important;
@@ -11,12 +16,6 @@
     cursor: default;
   }
 </style>
----
-layout: page
-title: "Inteligência Artificial em Ciência Animal"
-permalink: /iaemcienciaanimal/
----
-
 # Inteligência Artificial em Ciência Animal: Aplicações em Pesquisa e na Indústria
 
 <p align="center" style="margin-top: 20px;">
