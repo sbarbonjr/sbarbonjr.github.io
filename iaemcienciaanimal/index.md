@@ -72,7 +72,7 @@ Professor e pesquisador em Ciência da Computação, com foco em Inteligência A
 
 ---
 
-## 📗 Disponibilidade do Livro
+## Disponibilidade do Livro
 
 ISBN: **978-65-5790-123-6**
 
