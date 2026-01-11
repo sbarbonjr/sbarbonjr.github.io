@@ -13,7 +13,7 @@ Este espaço reúne informações essenciais sobre a obra, sua motivação, seu 
 
 ---
 
-## 📘 Sobre o Livro
+## Sobre o Livro
 
 O livro Inteligência Artificial em Ciência Animal: Aplicações em Pesquisa e na Indústria (ISBN: 978-65-5790-123-6) apresenta uma visão abrangente e aplicada sobre o uso da Inteligência Artificial (IA) na produção animal, na saúde e no bem-estar, bem como na cadeia de alimentos de origem animal. A obra inicia contextualizando a IA e seus avanços, abordando desde conceitos básicos até técnicas modernas como aprendizado profundo, visão computacional, algoritmos genéticos e processamento de linguagem natural. A seguir, discute os fundamentos da ciência animal: comportamento, saúde, genética, nutrição, produção e qualidade dos alimentos, estabelecendo o cenário no qual as ferramentas de IA podem ser integradas para otimizar processos, compreender padrões e apoiar a tomada de decisão. O livro aprofunda-se em temas centrais como qualidade e pré-processamento de dados, aprendizado supervisionado e não supervisionado, métricas de avaliação, otimização e modelagem de funções objetivo. Exemplos práticos incluem detecção de mastite, classificação da qualidade da carne, análise de comportamento e identificação de anomalias em produtos como leite, carnes, ovos e mel. Um extenso capítulo é dedicado aos sensores artificiais e à Internet das Coisas (IoT), destacando seu papel no monitoramento fisiológico, ambiental e produtivo. Também apresenta aplicações avançadas de visão computacional em inspeção, diagnóstico veterinário, análise espectral e monitoramento comportamental. A obra explora ainda o potencial do Processamento de Linguagem Natural para análise de registros clínicos, automação de relatórios, vigilância epidemiológica, síntese de conhecimento científico e apoio à extensão rural. Na reta final, discute temas éticos e regulatórios, incluindo viés algorítmico, transparência, explicabilidade, responsabilidade no uso de IA e o impacto de regulamentações emergentes. Conclui projetando o futuro da IA na ciência animal, com ênfase em sensores avançados, gêmeos digitais e sistemas automatizados mais éticos, sustentáveis e centrados no bem-estar animal.
 
@@ -39,7 +39,7 @@ isbn = 978-65-5790-123-6
 
 ---
 
-## 🧠 Motivação
+## Motivação
 
 A integração entre ciências biológicas e métodos computacionais tornou-se indispensável para lidar com sistemas produtivos complexos, variabilidade biológica e grandes quantidades de dados gerados em experimentos e ambientes industriais.
 
@@ -47,7 +47,7 @@ Este livro surge como resposta à necessidade crescente de materiais que expliqu
 
 ---
 
-## 📑 Estrutura da Obra
+## Estrutura da Obra
 
 A obra está organizada em capítulos que abrangem:
 
@@ -63,7 +63,7 @@ Apêndices incluem análises complementares, como PCA e tabelas comparativas dis
 
 ---
 
-## 👩‍🔬 Sobre os Autores
+## 👩Sobre os Autores
 
 ### **Ana Paula Ayub da Costa Barbon**  
 Pesquisadora na área de Medicina Veterinária e Ciência Animal, atua com tecnologia de produtos de origem animal, avaliação objetiva, inspeção e experimentação zootécnica. Colabora em projetos que integram métodos analíticos tradicionais com abordagens computacionais.
@@ -73,7 +73,7 @@ Professor e pesquisador em Ciência da Computação, com foco em Inteligência A
 
 ---
 
-## 📬 Contato
+## Contato
 
 - **Ana Paula Ayub da Costa Barbon**  
   [apbarbon@gmail.com]
@@ -83,14 +83,14 @@ Professor e pesquisador em Ciência da Computação, com foco em Inteligência A
 
 ---
 
-## 📗 Disponibilidade do Livro
+## Disponibilidade do Livro
 
 ISBN: **978-65-5790-123-6**  
 Para mais informações sobre a edição, aquisição ou divulgação, entre em contato pelos meios acima.
 
 ---
 
-## ⭐ Acompanhe Atualizações
+## Acompanhe Atualizações
 
 Novidades sobre eventos, lançamentos, versões digitais e materiais associados ao livro serão publicadas neste site.
 
