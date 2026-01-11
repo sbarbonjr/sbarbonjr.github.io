@@ -63,7 +63,7 @@ Apêndices incluem análises complementares, como PCA e tabelas comparativas dis
 
 ---
 
-## 👩Sobre os Autores
+## Sobre os Autores
 
 ### **Ana Paula Ayub da Costa Barbon**  
 Pesquisadora na área de Medicina Veterinária e Ciência Animal, atua com tecnologia de produtos de origem animal, avaliação objetiva, inspeção e experimentação zootécnica. Colabora em projetos que integram métodos analíticos tradicionais com abordagens computacionais.
@@ -79,14 +79,33 @@ Professor e pesquisador em Ciência da Computação, com foco em Inteligência A
   [apbarbon@gmail.com]
 
 - **Sylvio Barbon Junior**  
-  [sylvio.barbonjunior@units.it]
+  [sylvio.barbonjunior@units.it] 
 
 ---
 
-## Disponibilidade do Livro
+## 📗 Disponibilidade do Livro
 
-ISBN: **978-65-5790-123-6**  
-Para mais informações sobre a edição, aquisição ou divulgação, entre em contato pelos meios acima.
+ISBN: **978-65-5790-123-6**
+
+<div style="display: flex; gap: 12px; flex-wrap: wrap; margin-top: 10px;">
+
+  <a href="https://www.amazon.com.br/dp/B0GFYH5Q7Q" target="_blank" 
+     style="background-color:#FF9900; padding:10px 18px; border-radius:8px; 
+     color:white; text-decoration:none; font-weight:bold;">
+     📘 Comprar na Amazon
+  </a>
+
+  <a href="https://www.esserenelmondo.com.br/pt/medicina-veterinaria-inteligEncia-artificial-em-ciEncia-animal-ebook269.php" 
+     target="_blank"
+     style="background-color:#1E88E5; padding:10px 18px; border-radius:8px; 
+     color:white; text-decoration:none; font-weight:bold;">
+     🛒 Comprar na Essere nel Mondo
+  </a>
+
+</div>
+
+
+
 
 ---
 
