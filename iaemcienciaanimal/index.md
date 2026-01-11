@@ -1,3 +1,16 @@
+<style>
+  .markdown-body > h1:first-of-type{
+    font-size: 16px !important;
+    margin: 0 0 10px 0 !important;
+    font-weight: 500 !important;
+  }
+  .markdown-body > h1:first-of-type a{
+    text-decoration: none !important;
+    color: inherit !important;
+    pointer-events: none; /* mantém o texto, mas impede clique */
+    cursor: default;
+  }
+</style>
 ---
 layout: page
 title: "Inteligência Artificial em Ciência Animal"
