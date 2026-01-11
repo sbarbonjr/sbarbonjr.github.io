@@ -4,8 +4,7 @@ title: "Inteligência Artificial em Ciência Animal"
 permalink: /iaemcienciaanimal/
 ---
 
-# Inteligência Artificial em Ciência Animal  
-### Aplicações em Pesquisa e na Indústria
+# Inteligência Artificial em Ciência Animal: Aplicações em Pesquisa e na Indústria
 
 <p align="center" style="margin-top: 20px;">
   <img src="/iaemcienciaanimal/IAemCienciaAnimal.png" width="240" alt="Capa do Livro Inteligência Artificial em Ciência Animal">
